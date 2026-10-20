@@ -38,4 +38,16 @@ Self-hosted infrastructure · Practical guides from real projects
 
 ---
 
+**🗂️ Projects**<br>
+🔬 **Spectrogy platform**: [spectrogy.com](https://github.com/mrBurma/SpectrogyWEB) website · 🔒 sensor firmware (Rust STM32 + ESP8266, KiCad) ·
+🔒 FastAPI + ML + LLM server · 🔒 fleet dashboard (React) · 🔒 lab app, CAD & patent work · 🔒 Obsidian second brain<br>
+📈 🔒 **Elite Trader Engine**: Bybit grid / DCA / funding-arb bot with regime classifier, Thompson-sampling allocator, 1,100+ tests<br>
+💧 🔒 **LiqView**: BLE liquid sensor → iOS app → FastAPI + FFT<br>
+🧰 🔒 **Lab**: chess-board recognition (CV), Meshtastic → Telegram bridge, LabJack bench tools, bots, automation<br>
+🍎 🔒 **mac-dotfiles**: new Mac in one command, age-encrypted secrets
+
+<sub>🔒 = private repo. Walkthroughs, lessons and source code are on <a href="https://boosty.to/ague/donate">Boosty</a>.</sub>
+
+---
+
 <p align="center"><i>The best way to understand technology is to build it.</i></p>
