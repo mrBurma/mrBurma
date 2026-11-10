@@ -10,7 +10,7 @@
 
 <b>EXPERIENCE & FOCUS</b>
 - **Ventures:** Founder of <img src="https://www.google.com/s2/favicons?domain=spectrogy.com&sz=32" height="15" align="absmiddle"> **[Spectrogy](https://spectrogy.com)** & ex -  **Sportimity**
-- **Leadership:** CIO at <img src="https://www.google.com/s2/favicons?domain=atom.auto&sz=32" height="15" align="absmiddle"> **ATOM** · ex-Chief Innovations Dir. at <img src="https://www.google.com/s2/favicons?domain=kfc.com&sz=32" height="15" align="absmiddle"> **Yum! Brands** (RU, CIS, CEE, WEBU) · ex-CTO at <img src="https://www.google.com/s2/favicons?domain=revo.ru&sz=32" height="15" align="absmiddle"> **Revo** · ex-Tech Dir. at <img src="https://www.google.com/s2/favicons?domain=gett.com&sz=32" height="15" align="absmiddle"> **Gett** · ex-CIO at <img src="https://www.google.com/s2/favicons?domain=avito.ru&sz=32" height="15" align="absmiddle"> **Avito**
+- **Leadership:** CIO at <img src="https://www.google.com/s2/favicons?domain=atom.auto&sz=32" height="15" align="absmiddle"> **ATOM** · ex-Chief Innovations at <img src="https://www.google.com/s2/favicons?domain=kfc.com&sz=32" height="15" align="absmiddle"> **Yum! Brands** (RU, CIS, CEE, WEBU) · ex-CTO at <img src="https://www.google.com/s2/favicons?domain=revo.ru&sz=32" height="15" align="absmiddle"> **Revo** · ex-Tech Dir. at <img src="https://www.google.com/s2/favicons?domain=gett.com&sz=32" height="15" align="absmiddle"> **Gett** · ex-CIO at <img src="https://www.google.com/s2/favicons?domain=avito.ru&sz=32" height="15" align="absmiddle"> **Avito**
 - **Background:** Applied Physics (MSU) + MBA (emlyon) · Ex-CTO/CIO · Inventor with patented tech
 - **Stack:** Physics-informed ML, optical spectroscopy, embedded systems, high-load architectures & R&D automation
 
